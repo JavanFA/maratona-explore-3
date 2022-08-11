@@ -22,7 +22,7 @@
     color: #2D2C2A; 
   }
   
-  /* Header/cabeçalho */
+  /* Header */
   
   header {
     padding: 32px 0;
@@ -62,7 +62,7 @@
     margin-bottom: 24px;
   }
   
-  /*lista */
+  /*list */
   
   ul li {
     margin-bottom: 16px;
